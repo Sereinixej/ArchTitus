@@ -173,6 +173,7 @@ PKGS=(
 'which'
 'xdg-desktop-portal-kde'
 'xdg-user-dirs'
+'yakuake'
 'zeroconf-ioslave'
 'zip'
 'zsh'
