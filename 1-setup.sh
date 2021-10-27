@@ -85,7 +85,6 @@ PKGS=(
 'cmatrix'
 'code' # Visual Studio code
 'cronie'
-'cups'
 'dialog'
 'discover'
 'dolphin'
