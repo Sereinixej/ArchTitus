@@ -118,6 +118,7 @@ PKGS=(
 'konsole'
 'layer-shell-qt'
 'libnewt'
+'libreoffice'
 'libtool'
 'linux-lts'
 'linux-firmware'
