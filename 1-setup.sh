@@ -132,7 +132,6 @@ PKGS=(
 'nano'
 'neofetch'
 'networkmanager'
-'network-manager-applet'
 'npm'
 'ntfs-3g'
 'ntp'
